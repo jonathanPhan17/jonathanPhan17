@@ -12,10 +12,14 @@ Full Stack Engineer at [Centrova](https://centrova.ai/) — TypeScript, React, a
 
 ## Projects
 
-- **[Coffee Grinder](https://github.com/jonathanPhan17/coffeegrinder-backend)** — an AI
-  job-matching tool that screens real postings against your resume and explains every
-  score with evidence quotes. Node.js serverless backend on AWS — Lambda, Step
-  Functions, Bedrock, DynamoDB.
+- **[Coffee Grinder](https://github.com/jonathanPhan17/coffeegrinder-backend)** — a
+  full-stack AI job-matching application that screens real postings against your resume
+  and explains every score with evidence quotes. React frontend with a Node.js
+  serverless backend on AWS — Lambda, Step Functions, Bedrock, DynamoDB.
+- **[CT Lead Finder](https://github.com/jonathanPhan17/CT-Lead-Finder)** — finds
+  Principal Investigator contacts for clinical trials from ClinicalTrials.gov by
+  location, with Gmail-integrated cold outreach and built-in CRM tracking. React,
+  TypeScript, Tailwind CSS, Gmail API.
 - **[Portfolio](https://jonathanphan17.github.io/portfolio/)** — single-page React site
   built with Framer Motion and GSAP.
 
