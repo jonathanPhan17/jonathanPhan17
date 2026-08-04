@@ -13,8 +13,7 @@ Full Stack Engineer at [Centrova](https://centrova.ai/) — TypeScript, React, a
 ## Projects
 
 - **[Coffee Grinder](https://github.com/jonathanPhan17/coffeegrinder-backend)** — a
-  full-stack AI application that scores your resume against real job postings, with
-  evidence quotes behind every score.
+  full-stack AI job-matching application.
 - **[CT Lead Finder](https://github.com/jonathanPhan17/CT-Lead-Finder)** — finds
   clinical trial investigator contacts near any location and automates the cold-email
   outreach.
