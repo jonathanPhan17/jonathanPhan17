@@ -10,7 +10,7 @@ Full Stack Engineer at [Centrova](https://centrova.ai/) — TypeScript, React, a
 - **AWS** — Lambda, API Gateway, Step Functions, CDK, S3, CloudFront, RDS, SQS/SNS, Bedrock
 - **Tooling** — GitHub Actions, GitLab CI/CD, Terraform, Vite, Vitest
 
-## Projects
+## Personal Projects
 
 - **[Coffee Grinder](https://github.com/jonathanPhan17/coffeegrinder-backend)** — a
   full-stack AI job-matching application.
