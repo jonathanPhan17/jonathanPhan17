@@ -1,7 +1,6 @@
-# Hi, I'm Jonathan
+# Jonathan Phanthawong
 
-Full Stack Engineer at [Centrova](https://centrova.ai/), building web and mobile
-products on AWS with TypeScript.
+Full Stack Engineer at [Centrova](https://centrova.ai/) — TypeScript, React, and Node.js on AWS.
 
 ## Stack
 
@@ -11,16 +10,16 @@ products on AWS with TypeScript.
 - **AWS** — Lambda, API Gateway, Step Functions, CDK, S3, CloudFront, RDS, SQS/SNS, Bedrock
 - **Tooling** — GitHub Actions, GitLab CI/CD, Terraform, Vite, Vitest
 
-## Featured
+## Projects
 
-- **[Coffee Grinder](https://coffeegrinder.app/)** — an AI job-matching tool that
-  screens real postings against your resume and explains every score with evidence
-  quotes. React frontend ([coffee-grinder](https://github.com/jonathanPhan17/coffee-grinder)),
-  Node.js serverless backend on AWS — Lambda, Step Functions, Bedrock, DynamoDB
-  ([coffeegrinder-backend](https://github.com/jonathanPhan17/coffeegrinder-backend)).
-- **[Portfolio](https://jonathanphan17.github.io/portfolio/)** — single-page React
-  site with scroll-driven transitions, built with Framer Motion and GSAP.
+- **[Coffee Grinder](https://github.com/jonathanPhan17/coffeegrinder-backend)** — an AI
+  job-matching tool that screens real postings against your resume and explains every
+  score with evidence quotes. Node.js serverless backend on AWS — Lambda, Step
+  Functions, Bedrock, DynamoDB.
+- **[Portfolio](https://jonathanphan17.github.io/portfolio/)** — single-page React site
+  built with Framer Motion and GSAP.
 
-## Find me
+## Links
 
-- [jonathanphan17.github.io/portfolio](https://jonathanphan17.github.io/portfolio/)
+- [Portfolio](https://jonathanphan17.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/jonathan-phanthawong/)
