@@ -1,6 +1,6 @@
 # Jonathan Phanthawong
 
-Full Stack Engineer at [Centrova](https://centrova.ai/) — TypeScript, React, and Node.js on AWS.
+Full Stack Engineer — TypeScript, React, and Node.js on AWS.
 
 ## Stack
 
