@@ -17,10 +17,3 @@ Full Stack Engineer — TypeScript, React, and Node.js on AWS.
 - **[CT Lead Finder](https://github.com/jonathanPhan17/CT-Lead-Finder)** — finds
   clinical trial investigator contacts near any location and automates the cold-email
   outreach.
-- **[Portfolio](https://jonathanphan17.github.io/portfolio/)** — a single-page
-  portfolio site with a scroll-driven dark-to-light transition.
-
-## Links
-
-- [Portfolio](https://jonathanphan17.github.io/portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/jonathan-phanthawong/)
